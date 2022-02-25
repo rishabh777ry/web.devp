@@ -4,3 +4,19 @@
 .text-white{
     color: white;
 }
+.background-img{
+    height: 420px;
+    width: 100%;
+    background-color: black;
+    background-image: url(images/bg_6.jpg);
+    background-size: 100% 100%;
+}
+.text{
+    font-size: small;
+    padding-top: 50px;
+    text-align: center;
+    margin-top: 50px;
+}
+.text h1{
+  padding-top: 160px;
+}
