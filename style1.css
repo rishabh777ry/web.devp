@@ -1,0 +1,28 @@
+.bg-black{
+    background-color: #000000;
+}
+
+.background-img{
+    height: 420px;
+    width: 100%;
+    /* background-color: black; */
+    /* background-image: url(images/bg4_6.jpg); */
+    background-size: 100% 100%;
+}
+#menu .nav .nav-item .nav-link{
+    color: black;
+    font-size: smaller;
+
+}
+#menu .nav .nav-item .nav-link:hover{
+    color: rgb(255, 255, 255);
+   
+}
+.body{
+    font-family: helvetica;
+}
+.About {
+    padding-top: 120px;
+    text-align: center;
+}
+.
