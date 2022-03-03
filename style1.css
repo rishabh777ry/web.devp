@@ -24,9 +24,7 @@
     padding-top: 120px;
     text-align: center;
 }
-.container a:hover{
-    /* background-color:#000000; */
-}
+
 #Support h5{
     font-weight: bold;
 }
@@ -47,5 +45,12 @@
 }
 .col-md-3  a {
     color:rgba(255, 255, 255, 0.63);
+}
+.col-md-7 button{
+border-radius: 30px;
+    background-color:#dbcc8f;
+    color:#ffffff;
+    font-size: smaller;
+    padding: 8px ;
 }
 
