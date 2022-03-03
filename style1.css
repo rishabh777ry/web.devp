@@ -5,8 +5,6 @@
 .background-img{
     height: 420px;
     width: 100%;
-    /* background-color: black; */
-    /* background-image: url(images/bg4_6.jpg); */
     background-size: 100% 100%;
 }
 #menu .nav .nav-item .nav-link{
@@ -20,9 +18,24 @@
 }
 .body{
     font-family: helvetica;
+    color:black;
 }
 .About {
     padding-top: 120px;
     text-align: center;
 }
-.
+.container a:hover{
+    /* background-color:#000000; */
+}
+#Support h5{
+    font-weight: bold;
+}
+#space{
+    padding-top: 105px;
+}
+#Support p {
+    padding-top: 10px;
+}
+.Insta{
+    padding: 105px 0 30px 0;
+}
