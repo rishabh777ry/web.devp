@@ -53,4 +53,16 @@ border-radius: 30px;
     font-size: smaller;
     padding: 8px ;
 }
-
+.col-md-5 button{
+    border-radius: 30px;
+    background-color:#dbcc8f;
+    color:#ffffff;
+    font-size: smaller;
+    padding: 10px;
+   
+    
+}
+#bill h5{
+font-weight: 400;
+font-size:large;
+}
