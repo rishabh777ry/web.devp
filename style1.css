@@ -77,3 +77,7 @@ font-size:large;
 .col-md-5 a:hover{
     background-color: #bb9057ab;
 }
+#padding-card{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
