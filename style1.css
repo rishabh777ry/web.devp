@@ -66,3 +66,14 @@ border-radius: 30px;
 font-weight: 400;
 font-size:large;
 }
+.col-md-5 a{
+    text-decoration: none;
+    border: 1px solid;
+    background-color: #d3b749;
+    color: white;
+    padding: 8px;
+    border-color: #d3b749;
+}
+.col-md-5 a:hover{
+    background-color: #bb9057ab;
+}
